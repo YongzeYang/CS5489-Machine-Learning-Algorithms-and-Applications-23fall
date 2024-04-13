@@ -18,18 +18,18 @@ All the tutorials and assignments in this class are well prepared, and you can l
 
 At the end of each lecture there will be a Tutorial session related to this course. Reference answers for all tutorials will be given for revision before the exam. For Tutorials, only one single Jupyter file is required to be submitted. The location of the 10 Tutorials is given below:
 
-| Tutorials                                 | Location                   |
-| ----------------------------------------- | -------------------------- |
-| [Tutorial 1](Tutorials/Tutorial1.ipynb) | Tutorials/Tutorial1.ipynb |
-| [Tutorial 2](Tutorials/Tutorial2.ipynb) | Tutorials/Tutorial2.ipynb |
-| [Tutorial 3](Tutorials/Tutorial3.ipynb) | Tutorials/Tutorial3.ipynb |
-| [Tutorial 4](Tutorials/Tutorial4.ipynb) | Tutorials/Tutorial4.ipynb |
-| [Tutorial 5](Tutorials/Tutorial5.ipynb) | Tutorials/Tutorial5.ipynb |
-| [Tutorial 6](Tutorials/Tutorial6.ipynb) | Tutorials/Tutorial6.ipynb |
-| [Tutorial 7](Tutorials/Tutorial7.ipynb) | Tutorials/Tutorial7.ipynb |
-| [Tutorial 8](Tutorials/Tutorial8.ipynb) | Tutorials/Tutorial8.ipynb |
-| [Tutorial 9](Tutorials/Tutorial9.ipynb) | Tutorials/Tutorial9.ipynb |
-| [Tutorial 10](Tutorials/Tutorial10.ipynb) | Tutorials/Tutorial10.ipynb |
+| Tutorials                                 | Location                 | Target                                        | Methods     |
+| ----------------------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| [Tutorial 1](Tutorials/Tutorial1.ipynb) | Tutorials/Tutorial1.ipynb | Introduction to Jupyter and Python | / |
+| [Tutorial 2](Tutorials/Tutorial2.ipynb) | Tutorials/Tutorial2.ipynb | Document Classification | Naive Bayes |
+| [Tutorial 3](Tutorials/Tutorial3.ipynb) | Tutorials/Tutorial3.ipynb | Gender Classification from Face Images | Logistic Regression & SVM |
+| [Tutorial 4](Tutorials/Tutorial4.ipynb) | Tutorials/Tutorial4.ipynb | Face Detection in Images | AdaBoost, XGBoost, RF, (kernel) SVM, |
+| [Tutorial 5](Tutorials/Tutorial5.ipynb) | Tutorials/Tutorial5.ipynb | Predicting Bike Sharing Usage | (non-) Linear Regression |
+| [Tutorial 6](Tutorials/Tutorial6.ipynb) | Tutorials/Tutorial6.ipynb | Dimensionality Reduction and Face Recognition | PCA, KPCA |
+| [Tutorial 7](Tutorials/Tutorial7.ipynb) | Tutorials/Tutorial7.ipynb | Image Segmentation using Clustering | KMeans, GaussianMixture, MeanShift, SpectralClustering, AgglomerativeClustering, |
+| [Tutorial 8](Tutorials/Tutorial8.ipynb) | Tutorials/Tutorial8.ipynb | Face Detection | MLPs |
+| [Tutorial 9](Tutorials/Tutorial9.ipynb) | Tutorials/Tutorial9.ipynb | Face Detection | CNNs |
+| [Tutorial 10](Tutorials/Tutorial10.ipynb) | Tutorials/Tutorial10.ipynb | Cake Classification Using Deep Features | Transfer Learning (ResNet50, InceptionV3) |
 
 I deducted 1 point each for tutorial 2 and tutorial 6, and the rest of the tutorials were full marks.
 
