@@ -24,9 +24,9 @@ At the end of each lecture there will be a Tutorial session related to this cour
 | [Tutorial 2](Tutorials/Tutorial2.ipynb) | Tutorials/Tutorial2.ipynb | Document Classification | Naive Bayes |
 | [Tutorial 3](Tutorials/Tutorial3.ipynb) | Tutorials/Tutorial3.ipynb | Gender Classification from Face Images | Logistic Regression & SVM |
 | [Tutorial 4](Tutorials/Tutorial4.ipynb) | Tutorials/Tutorial4.ipynb | Face Detection in Images | AdaBoost, XGBoost, RF, (kernel) SVM, |
-| [Tutorial 5](Tutorials/Tutorial5.ipynb) | Tutorials/Tutorial5.ipynb | Predicting Bike Sharing Usage | (non-) Linear Regression |
+| [Tutorial 5](Tutorials/Tutorial5.ipynb) | Tutorials/Tutorial5.ipynb | Predicting Bike Sharing Usage | RidgeCV， LinearRegression， Kernel Support Vector Regression， KernelRidge |
 | [Tutorial 6](Tutorials/Tutorial6.ipynb) | Tutorials/Tutorial6.ipynb | Dimensionality Reduction and Face Recognition | PCA, KPCA |
-| [Tutorial 7](Tutorials/Tutorial7.ipynb) | Tutorials/Tutorial7.ipynb | Image Segmentation using Clustering | KMeans, GaussianMixture, MeanShift, SpectralClustering, AgglomerativeClustering, |
+| [Tutorial 7](Tutorials/Tutorial7.ipynb) | Tutorials/Tutorial7.ipynb | Image Segmentation using Clustering | KMeans, GaussianMixture, MeanShift, SpectralClustering, AgglomerativeClustering |
 | [Tutorial 8](Tutorials/Tutorial8.ipynb) | Tutorials/Tutorial8.ipynb | Face Detection | MLPs |
 | [Tutorial 9](Tutorials/Tutorial9.ipynb) | Tutorials/Tutorial9.ipynb | Face Detection | CNNs |
 | [Tutorial 10](Tutorials/Tutorial10.ipynb) | Tutorials/Tutorial10.ipynb | Cake Classification Using Deep Features | Transfer Learning (ResNet50, InceptionV3) |
